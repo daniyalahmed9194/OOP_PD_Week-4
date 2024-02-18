@@ -1,0 +1,7 @@
+D:\2nd Semester\LAB\Week4\Ship\bin\Debug\Ship.exe.config
+D:\2nd Semester\LAB\Week4\Ship\bin\Debug\Ship.exe
+D:\2nd Semester\LAB\Week4\Ship\bin\Debug\Ship.pdb
+D:\2nd Semester\LAB\Week4\Ship\obj\Debug\Ship.csproj.AssemblyReference.cache
+D:\2nd Semester\LAB\Week4\Ship\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+D:\2nd Semester\LAB\Week4\Ship\obj\Debug\Ship.exe
+D:\2nd Semester\LAB\Week4\Ship\obj\Debug\Ship.pdb
